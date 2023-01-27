@@ -23,3 +23,9 @@ E=np.dot(A,B)
    
 D=np.dot(E,C)
 
+i=0
+
+while i<6:
+   print(f"the {i} elements in D is D[i]")
+   i+=1
+  
