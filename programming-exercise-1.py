@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 
 
 print("game start")
-A = np.random.uniform(0,1,size = (10**4,10**3))
-B = np.random.uniform(0,1,size = (10**3,10**4))
-C=np.random.uniform(0,1,size = (10**4,1))
+A = np.random.uniform(0,1,size = (10**6,10**3))
+B = np.random.uniform(0,1,size = (10**3,10**6))
+C=np.random.uniform(0,1,size = (10**6,1))
 
 
 
